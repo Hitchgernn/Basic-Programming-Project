@@ -1,0 +1,8 @@
+A1,ontel,0,25000
+A2,ontel,0,25000
+A3,ontel,1,25000
+B1,gunung,1,30000
+B2,gunung,1,30000
+B3,gunung,1,30000
+C1,lipat,1,20000
+D1,gaktau,1,10000
